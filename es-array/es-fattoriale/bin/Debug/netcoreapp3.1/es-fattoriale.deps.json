@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "es-fattoriale/1.0.0": {
+        "runtime": {
+          "es-fattoriale.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "es-fattoriale/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
