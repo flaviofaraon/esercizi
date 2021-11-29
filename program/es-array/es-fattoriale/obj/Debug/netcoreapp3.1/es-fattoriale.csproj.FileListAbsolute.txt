@@ -1,0 +1,13 @@
+C:\Users\PC\wa\c#\program\es-array\es-fattoriale\bin\Debug\netcoreapp3.1\es-fattoriale.exe
+C:\Users\PC\wa\c#\program\es-array\es-fattoriale\bin\Debug\netcoreapp3.1\es-fattoriale.deps.json
+C:\Users\PC\wa\c#\program\es-array\es-fattoriale\bin\Debug\netcoreapp3.1\es-fattoriale.runtimeconfig.json
+C:\Users\PC\wa\c#\program\es-array\es-fattoriale\bin\Debug\netcoreapp3.1\es-fattoriale.runtimeconfig.dev.json
+C:\Users\PC\wa\c#\program\es-array\es-fattoriale\bin\Debug\netcoreapp3.1\es-fattoriale.dll
+C:\Users\PC\wa\c#\program\es-array\es-fattoriale\bin\Debug\netcoreapp3.1\es-fattoriale.pdb
+C:\Users\PC\wa\c#\program\es-array\es-fattoriale\obj\Debug\netcoreapp3.1\es-fattoriale.csprojAssemblyReference.cache
+C:\Users\PC\wa\c#\program\es-array\es-fattoriale\obj\Debug\netcoreapp3.1\es-fattoriale.AssemblyInfoInputs.cache
+C:\Users\PC\wa\c#\program\es-array\es-fattoriale\obj\Debug\netcoreapp3.1\es-fattoriale.AssemblyInfo.cs
+C:\Users\PC\wa\c#\program\es-array\es-fattoriale\obj\Debug\netcoreapp3.1\es-fattoriale.csproj.CoreCompileInputs.cache
+C:\Users\PC\wa\c#\program\es-array\es-fattoriale\obj\Debug\netcoreapp3.1\es-fattoriale.dll
+C:\Users\PC\wa\c#\program\es-array\es-fattoriale\obj\Debug\netcoreapp3.1\es-fattoriale.pdb
+C:\Users\PC\wa\c#\program\es-array\es-fattoriale\obj\Debug\netcoreapp3.1\es-fattoriale.genruntimeconfig.cache

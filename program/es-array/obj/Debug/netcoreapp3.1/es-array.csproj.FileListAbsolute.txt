@@ -1,0 +1,13 @@
+C:\Users\PC\wa\c#\program\es-array\bin\Debug\netcoreapp3.1\es-array.exe
+C:\Users\PC\wa\c#\program\es-array\bin\Debug\netcoreapp3.1\es-array.deps.json
+C:\Users\PC\wa\c#\program\es-array\bin\Debug\netcoreapp3.1\es-array.runtimeconfig.json
+C:\Users\PC\wa\c#\program\es-array\bin\Debug\netcoreapp3.1\es-array.runtimeconfig.dev.json
+C:\Users\PC\wa\c#\program\es-array\bin\Debug\netcoreapp3.1\es-array.dll
+C:\Users\PC\wa\c#\program\es-array\bin\Debug\netcoreapp3.1\es-array.pdb
+C:\Users\PC\wa\c#\program\es-array\obj\Debug\netcoreapp3.1\es-array.csprojAssemblyReference.cache
+C:\Users\PC\wa\c#\program\es-array\obj\Debug\netcoreapp3.1\es-array.AssemblyInfoInputs.cache
+C:\Users\PC\wa\c#\program\es-array\obj\Debug\netcoreapp3.1\es-array.AssemblyInfo.cs
+C:\Users\PC\wa\c#\program\es-array\obj\Debug\netcoreapp3.1\es-array.csproj.CoreCompileInputs.cache
+C:\Users\PC\wa\c#\program\es-array\obj\Debug\netcoreapp3.1\es-array.dll
+C:\Users\PC\wa\c#\program\es-array\obj\Debug\netcoreapp3.1\es-array.pdb
+C:\Users\PC\wa\c#\program\es-array\obj\Debug\netcoreapp3.1\es-array.genruntimeconfig.cache
